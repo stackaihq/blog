@@ -8,14 +8,13 @@ draft: false
 tags:
   - color-schemes
 ogImage: ""
-description:
-  Some of the well-crafted, predefined color schemes for AstroPaper blog
+description: Some of the well-crafted, predefined color schemes for Stackai blog
   theme.
 ---
 
-I've crafted some predefined color schemes for this AstroPaper blog theme. You can replace these color schemes with the original ones.
+I've crafted some predefined color schemes for this Stackai blog theme. You can replace these color schemes with the original ones.
 
-If you don't know how you can configure color schemes, check [this blog post](https://astro-paper.pages.dev/posts/customizing-astropaper-theme-color-schemes/).
+If you don't know how you can configure color schemes, check [this blog post](https://astro-paper.pages.dev/posts/customizing-Stackai-theme-color-schemes/).
 
 ## Table of contents
 
@@ -75,9 +74,9 @@ html[data-theme="light"] {
 
 Light color scheme has to be defined as `html[data-theme="dark"]`.
 
-### AstroPaper 1 original Dark Theme
+### Stackai 1 original Dark Theme
 
-![AstroPaper 1 default dark theme](https://user-images.githubusercontent.com/53733092/215769153-13b0ad8d-5ba2-44b1-af06-e5ae61293f62.png)
+![Stackai 1 default dark theme](https://user-images.githubusercontent.com/53733092/215769153-13b0ad8d-5ba2-44b1-af06-e5ae61293f62.png)
 
 ```css
 html[data-theme="dark"] {
@@ -136,7 +135,7 @@ html[data-theme="dark"] {
 }
 ```
 
-### Astro dark (New default dark theme in AstroPaper 2)
+### Astro dark (New default dark theme in Stackai 2)
 
 ![new dark color scheme - low contrast](https://user-images.githubusercontent.com/53733092/215772856-d5b7ae35-ddaa-4ed6-b0bf-3fa5dbcf834c.png)
 

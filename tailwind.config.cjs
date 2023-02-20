@@ -59,6 +59,8 @@ module.exports = {
     },
     fontFamily: {
       mono: ["IBM Plex Mono", "monospace"],
+      cabin: ["Cabin", "sans-serif"],
+      sans: ["Source Sans Pro", "sans-serif"]
     },
     // },
   },
