@@ -8,6 +8,8 @@ import sitemap from "@astrojs/sitemap";
 // https://astro.build/config
 export default defineConfig({
   site: "https://astro-paper.pages.dev/",
+  base: "/blog",
+  trailingSlash: "never",
   integrations: [
     tailwind({
       config: {
